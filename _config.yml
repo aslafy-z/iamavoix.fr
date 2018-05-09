@@ -1,0 +1,38 @@
+# Theme
+remote_theme: 'aslafy-z/cover-card'
+
+# Title and tag line
+title: 'Maïa ALGE'
+description: 'I am amazing.'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'favicon.ico'
+
+# Online profiles
+social:
+  facebook: 'Iamavoixmaispasque'
+  twitter: 'iamavoix'
+  linkedin: 'maia-alge-287b1895'
+  instagram: 'iamavoix'
+  youtube: 'UCgg3qjgHS3jhU2yG4YEzrdA'
+  #pinterest: ''
+  #github: ''
+  #codepen: ''
+  #steam: ''
+  #soundcloud: ''
+  #lastfm: ''
+  #stack-overflow: ''
+  #reddit: ''
+  #medium:  ''
+  #tumblr: ''
+  #weibo: ''
+  #vk: ''
+  #blog_url: ''
+  #email: ''
+  #messenger: ''
+
+# Advanced settings
+plugins:
+  - jekyll-remote-theme
